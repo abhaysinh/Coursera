@@ -1,0 +1,32 @@
+# Octave 5.2.0, Mon May 25 18:19:50 2020 GMT <unknown@Abhaysinh>
+# Octave 5.2.0, Mon May 25 18:23:10 2020 GMT <unknown@Abhaysinh>
+pwd
+ex1.m
+run ex1.m
+run ex1.m
+addpath(pwd)
+run ex1.m
+ex1
+help eye
+ex1
+ex1
+ex1
+submit
+ex1
+ex1
+submit
+ex1
+submit
+ex1_multi
+submit
+ex1_multi
+submit
+ex1_multi
+submit
+ex1_multi
+submit
+q();
+q()
+exit
+# Octave 5.2.0, Mon May 25 23:43:41 2020 GMT <unknown@Abhaysinh>
+# Octave 5.2.0, Sun May 31 11:34:59 2020 GMT <unknown@Abhaysinh>
